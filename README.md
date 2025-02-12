@@ -6,8 +6,6 @@ I work with libraries and frameworks such as GSAP, Vuetify, Bootstrap, Tailwind,
 
 I'm currently expanding my skills in Vue.js, Nuxt.js, GSAP, and Pinia to push the boundaries of what’s possible on the front end. Always open to connect and collaborate on creative projects!
 
-🌱 **Currently learning**: Vue.js, Nuxt.js, GSAP, and state management with Pinia.
-
 ## Connect with me:
 
 <a href="https://linkedin.com/in/www.linkedin.com/in/matthieu-audo-23438b148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/matthieu-audo-23438b148" height="30" width="40" /></a>
